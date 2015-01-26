@@ -15,3 +15,6 @@ git commit -m "Make a User Story 1"
 git push
 ```
 4. then pull it
+
+***
+Add new line for User Story 2.
