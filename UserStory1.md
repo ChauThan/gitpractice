@@ -18,6 +18,7 @@ git push
 
 ***
 Add new line for User Story 2.
+
 You should re-base before merge branch into master. 
 ```git
 git rebase
