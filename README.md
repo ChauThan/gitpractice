@@ -11,3 +11,4 @@ Practise git command to make a Scrum Project
  2. In branch 'master'. Edit story1.md. And then commit it.
  3. In new branch. Edit story1.md and add story2.md.
  4. Merge it to master.
+ 5.
